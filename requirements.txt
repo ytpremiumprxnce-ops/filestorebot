@@ -1,5 +1,7 @@
 pyrogram
 tgcrypto
-pymongo[srv]
+pymongo
+dnspython
 python-dotenv
 flask
+gunicorn
